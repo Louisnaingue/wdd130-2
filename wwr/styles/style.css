@@ -1,6 +1,9 @@
 div {
     max-width: 1600px;
 }
+.logo {
+    width: 80px;
+}
 #content {
     margin: 0 auto;
 
